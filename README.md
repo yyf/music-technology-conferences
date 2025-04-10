@@ -23,9 +23,12 @@ A list of music technology conferences
 ## OS-specific
 - [LAC](https://linuxaudio.org/): Linux Audio Conference
 
-## Web Audio
+## Web/Network Audio
 - [WAC](https://webaudioconf.com/): Web Audio Conference
 - [IS2](https://internetofsounds.net/international-symposium-on-the-internet-of-sounds/):  International Symposium on the Internet of Sounds
 
 ## Audio Plugin Development
 - [ADC](https://audio.dev/): Audio Developer Conference 
+
+## Audio Engineering
+- [AES](https://aes2.org/event/conferences/): Augio Engineering Society Conferences 
