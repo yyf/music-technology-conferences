@@ -31,4 +31,4 @@ A list of music technology conferences
 - [ADC](https://audio.dev/): Audio Developer Conference 
 
 ## Audio Engineering
-- [AES](https://aes2.org/event/conferences/): Augio Engineering Society Conferences 
+- [AES](https://aes2.org/event/conferences/): Audio Engineering Society Conferences 
