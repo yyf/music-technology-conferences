@@ -15,10 +15,16 @@ A list of music technology conferences
 ## Machine Learning
 - [ISMIR](https://www.ismir.net/): International Society for Music Information Retrieval 
 - [DCASE](https://dcase.community/): Detection and Classification of Acoustic Scenes and Events
+- [ICML](https://icml.cc/): International Conference on Machine Learning
+- [NeurIPS](https://neurips.cc/): Neural Information Processing Systems
+- [ICLR](http://iclr.cc/): International Conference on Learning Representations
+- [ACL](https://2025.aclweb.org/): Association for Computational Linguistics
+- [EMNLP](https://2025.emnlp.org/): Empirical Methods in Natural Language Processing
 
 ## Signal Processing
 - [ICASSP](https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings): International Conference on Acoustics, Speech, and Signal Processing
 - [WASPAA](https://signalprocessingsociety.org/event-names/waspaa): Workshop on Applications of Signal Processing to Audio and Acoustics
+- [InterSpeech](https://www.isca-speech.org/): International Speech Communication Association (ISCA)
 
 ## OS-specific
 - [LAC](https://linuxaudio.org/): Linux Audio Conference
